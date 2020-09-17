@@ -1,0 +1,11 @@
+body,html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url(https://picsum.photos/id/357/1570/1050.jpg);
+    height: 100%;
+    color: rgb(68, 67, 67);
+}
+
+#span {
+    color:black;
+}
